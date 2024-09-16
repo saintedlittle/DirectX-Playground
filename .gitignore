@@ -1,0 +1,9 @@
+
+/.vs
+/.conan
+conanfile.py
+conandata.yml
+/x64
+/WolfGame/x64
+Temp.txt
+/StorageModule/x64
